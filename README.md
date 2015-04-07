@@ -14,3 +14,31 @@ but for now, I need to stay focused and try for these goals.
 I'm not the best storywriter, so if someone wants to help me improve it, feel free to join in. I'd be happy to work on this project with someone awesome.
 
 Any comments or suggestions would be greatly appreciated. Thanks for taking the time to check it out!
+
+How to run:
+-----------------
+Install Python 2.X.X from https://www.python.org/downloads/
+Download *.py file from my repository.
+Open PowerShell (on Windows) or Terminal (on Linux and OSX)
+Change directory to location of the *.py file.
+Run python *.py in terminal.
+Enjoy.
+
+*Replace *.py with filename. Ex: 0-1-0.py
+
+
+Version Changelog:
+-----------------
+
+Ver. 0.1.0-alpha - 4/06/2015
+  Additions:
+  *Intial alpha release. Only includes Act I, and even that is pretty barebones. Will be updated and tweaked.
+  
+  Improvements:
+  *None
+  
+  Bugfixes:
+  *None
+  
+  Known Bugs:
+  *None
