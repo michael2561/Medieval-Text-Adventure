@@ -18,10 +18,15 @@ Any comments or suggestions would be greatly appreciated. Thanks for taking the 
 How to run:
 -----------------
 Install Python 2.X.X from https://www.python.org/downloads/
+
 Download *.py file from my repository.
+
 Open PowerShell (on Windows) or Terminal (on Linux and OSX)
+
 Change directory to location of the *.py file.
+
 Run python *.py in terminal.
+
 Enjoy.
 
 *Replace *.py with filename. Ex: 0-1-0.py
