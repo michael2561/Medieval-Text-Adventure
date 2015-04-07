@@ -31,6 +31,7 @@ Version Changelog:
 -----------------
 
 Ver. 0.1.0-alpha - 4/06/2015
+
   Additions:
   *Intial alpha release. Only includes Act I, and even that is pretty barebones. Will be updated and tweaked.
   
