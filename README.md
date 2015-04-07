@@ -56,4 +56,5 @@ Ver. 0.1.0-alpha - 4/06/2015
   
   Needed fixes:
   
+  -No title yet.
   -No "save" system or continue in place. When you get a Game Over, you have to restart from the beginning.
